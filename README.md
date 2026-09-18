@@ -4,4 +4,5 @@ This project was part of the Multi-Agent Systems course. The repo contains the r
 
 
 
-<video src="https://github.com/YashwanthProfile/MultiAgentSystem_FormationControl/blob/main/yash_formation.mp4" autoplay loop muted playsinline width="100%"></video>
+<video src="https://github.com" autoplay loop muted playsinline width="100%"></video>
+
