@@ -1,0 +1,13 @@
+MULTI-AGENT NAME FORMATION
+===========================
+
+Name: YASH
+N: 20
+P_EDGE: 0.3
+Edges: 55
+Connected: True
+lambda_2(L): 1.56489519
+DT: 0.02
+K_FORM: 18.0
+K_PIN: 12.0
+K_DAMP: 8.0
